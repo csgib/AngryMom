@@ -35,11 +35,11 @@
     <name>Game_start</name>
     <message>
         <source>Démarrer</source>
-        <translation type="unfinished"></translation>
+        <translation>Start</translation>
     </message>
     <message>
         <source>Continuer</source>
-        <translation type="unfinished"></translation>
+        <translation>Continue</translation>
     </message>
 </context>
 <context>
@@ -57,27 +57,27 @@
     <name>Game_win</name>
     <message>
         <source>Vous avez gagné maman n&apos;est plus grincheuse. Mais combien de temps cela durera t&apos;il ?</source>
-        <translation type="unfinished"></translation>
+        <translation>You win, mom is not angry for now. How long does it continue ?</translation>
     </message>
     <message>
         <source>Retour</source>
-        <translation type="unfinished"></translation>
+        <translation>Back</translation>
     </message>
     <message>
         <source> année(s) </source>
-        <translation type="unfinished"></translation>
+        <translation> Year(s)</translation>
     </message>
     <message>
         <source> mois </source>
-        <translation type="unfinished"></translation>
+        <translation> Month(s)</translation>
     </message>
     <message>
         <source> jour(s) </source>
-        <translation type="unfinished"></translation>
+        <translation> Day(s)</translation>
     </message>
     <message>
         <source> heures(s) </source>
-        <translation type="unfinished"></translation>
+        <translation> Hour(s)</translation>
     </message>
     <message>
         <source> minute(s) </source>
@@ -89,7 +89,7 @@
     </message>
     <message>
         <source>Il vous a fallu</source>
-        <translation type="unfinished"></translation>
+        <translation>It take</translation>
     </message>
 </context>
 <context>
